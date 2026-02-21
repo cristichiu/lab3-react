@@ -1,0 +1,1 @@
+export { DecInputInc } from "./DecInputInc"

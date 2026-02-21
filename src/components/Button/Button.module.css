@@ -1,0 +1,6 @@
+.button { width: 100%; text-align: center; padding: 10px; border-radius: 12px; font-size: 16px; border: none; cursor: pointer }
+
+.default { background: #7600FC; color: white; }
+.default:hover { background: #5B00C6; }
+.gray { background: #F3F4F6; color: black; }
+.gray:hover { background: #E5E7EB; }
